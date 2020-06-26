@@ -1,7 +1,59 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px 'Conv_Eurosti', Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+.remove-header-space {
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.header-bottomline {
+  border-bottom:3px solid #ccc;
+}
+
+header {
+  position: sticky;
+  padding-bottom: 75px;
+}
+
+.tmyc-logo-header {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+  display: block;
+}
+
+.home-content {
+  height: 1000px;
+}
+
+iframe {
+  width: 50vw;
+  height: 28.125vw;
+}
+
+.footer-style {
+  background-color: black;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.footer-titles div {
+  color: white;
+}
+
+.footer-links {
+  padding-top: 30px;
+}
+
+.legal-links div, .organization-links div {
+  font-size: 12px;
+  color: gray;
 }
