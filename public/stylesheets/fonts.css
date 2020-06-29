@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Conv_Eurosti';
+    src: url('/public/fonts/Eurostile/fonts/Eurosti.eot');
+}
+
+@font-face {
+    font-family: 'Conv_Eurostib';
+    src: url('/public/fonts/Eurostile BOLD/fonts/Eurostib.eot');
+}
+
+@font-face {
+    font-family: 'Avenir Light';
+    src: url('/public/fonts/Avenir/Avenir Light.otf');
+}
+
+@font-face {
+    font-family: 'Avenir Medium';
+    src: url('/public/fonts/Avenir/Avenir Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Avenir Regular';
+    src: url('/public/fonts/Avenir/Avenir Regular.otf');
+}

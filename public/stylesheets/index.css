@@ -1,5 +1,5 @@
-body {
-  font: 14px 'Conv_Eurosti', Helvetica, Arial, sans-serif;
+header {
+  font: 14px 'Avenir Medium', Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -21,6 +21,10 @@ a {
 header {
   position: sticky;
   padding-bottom: 75px;
+}
+
+.col-lg-2 {
+  padding: 0 !important;
 }
 
 .tmyc-logo-header {
