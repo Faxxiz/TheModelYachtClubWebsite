@@ -1,0 +1,9 @@
+.home-content {
+    height: 1000px;
+}
+
+iframe {
+    width: 50vw;
+    height: 28.125vw;
+    border: 0;
+}

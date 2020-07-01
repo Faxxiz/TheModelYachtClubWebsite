@@ -1,0 +1,50 @@
+header {
+    font: 14px 'Avenir Medium', Helvetica, Arial, sans-serif;
+    position: sticky;
+    padding-bottom: 75px;
+    opacity: 0.97;
+}
+
+.jumbotron {
+    padding: 2rem 2rem;
+}
+
+.remove-header-space {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.header-bottomline {
+    border-bottom: 2px solid #ccc;
+}
+
+.btn-sm {
+    border: 0;
+}
+
+.btn-header-border {
+    border-bottom: 3px solid !important;
+    border-radius: 0;
+}
+
+.btn-model-making, .btn-shop {
+    color: #acacac !important;
+}
+
+.col-lg-2 {
+    padding: 0 !important;
+}
+
+.tmyc-logo-header {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+
+.login-logo-header {
+    margin-top: 2%;
+    float: right;
+}

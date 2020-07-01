@@ -1,0 +1,70 @@
+.footer-style {
+    background-color: black;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.tmyc-logo-footer {
+    margin-bottom: 2%;
+}
+
+.footer-titles-color {
+    color: #dbdbdb;
+}
+
+.footer-links, .newsletter-content {
+    padding-top: 30px;
+}
+
+.footer-links .btn-sm {
+    padding: 0 !important;
+}
+
+.legal-links div, .organization-links div {
+    font-family: "Avenir Medium", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #808080;
+}
+
+.send-newsletter, .send-newsletter:focus {
+    background-color: black;
+    border-color: #808080;
+    color: #808080;
+    outline: 0 !important;
+    -webkit-appearance: none;
+    box-shadow: none !important;
+    border-radius: 0.25rem !important;
+}
+
+.arrow-newsletter-container {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.arrow-newsletter {
+    padding-left: 20px;
+    vertical-align: middle;
+}
+
+.social-logos {
+    position: relative;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.social-logos div img {
+    max-height: 25px;
+    max-width: 25px;
+}
+
+.footer-dws-logo {
+    margin: 10% auto 5% auto;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.copyright {
+    font-size: 9px;
+}
