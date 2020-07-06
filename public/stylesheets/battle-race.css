@@ -1,0 +1,33 @@
+.battle-race {
+    height: 1000px;
+}
+
+.search-place {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-search-icon {
+    background-color: black;
+    border-radius: 0;
+}
+
+.btn-search-icon:focus,.btn-search-icon:active, .search-field:focus, .search-field:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.search-icon {
+    background-image : url('/public/images/search/yellow.svg');
+    background-size: cover;
+    background-position: center center;
+    display: inline-block;
+    height: 0.83rem;
+    width: 0.83rem;
+}
+
+.search-field, .search-field:focus, .search-field:active {
+    background-color: #dbdbdb;
+    border-radius: 0;
+}

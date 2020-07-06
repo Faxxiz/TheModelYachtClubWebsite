@@ -5,7 +5,7 @@ const router = express.Router();
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-    res.render('discover', {title: 'The Model Yacht Club'});
+    res.render('index', {title: 'The Model Yacht Club'});
 
 });
 

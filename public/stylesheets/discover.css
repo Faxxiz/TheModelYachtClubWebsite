@@ -1,9 +1,9 @@
-.home-content {
+.discover {
     height: 1000px;
 }
 
 iframe {
-    width: 50vw;
-    height: 28.125vw;
+    width: 60vw;
+    height: 33.75vw;
     border: 0;
 }
